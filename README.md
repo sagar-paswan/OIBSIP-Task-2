@@ -20,4 +20,6 @@ A simple Weather App built with Python that fetches real-time weather data using
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Screenshot
+
+![Voice Assistant Screenshot](Screenshot.png)
